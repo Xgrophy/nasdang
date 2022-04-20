@@ -1,6 +1,6 @@
 ## DEPLOY DI HEROKU
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Cangcimenn/musi"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Xgrophy/nasdang"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=a2Vua2Fuc2FqYS9NdXNpa2t1IE11c2lra3U"><img src="https://img.shields.io/badge/BUAT DIBOT-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 ## COMMAND ADMINS 🧑‍✈️
