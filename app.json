@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Dapatkan nilai ini dari https://my.telegram.org",
-        "value": "",
+        "value": "14411612",
         "required": true
       },
       "API_HASH": {
         "description": "Dapatkan nilai ini dari https://my.telegram.org",
-        "value": "",
+        "value": "8147bd43ef95893744a6ed96d9fa4856",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -29,27 +29,27 @@
       },
       "BOT_TOKEN": {
         "description": "Token Bot dari Botfather",
-        "value": "",
+        "value": "5324475520:AAGOCCSu3XOKG3tsGhxw-hY2_CBSTwvpWuw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://Gratis:skylakeren@skyla.b6a40.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "Nama untuk Bot Musik Anda. Tolong jangan gunakan karakter ascii",
-        "value": "",
+        "value": "𝘕𝘢𝘴𝘵𝘰𝘥 𝘮𝘶𝘴𝘪𝘤",
         "required": true
       },
       "OWNER_ID": {
         "description": "ID pengguna dari pengguna yang ingin Anda tambahkan sebagai PEMILIK. Beberapa nilai harus dipisahkan dengan spasi.",
-        "value": "",
+        "value": "1733879891",
         "required": true
       },
       "STRING_SESSION": {
         "description": "Sesi String Pyrogram. Asisten Pertama adalah Wajib.",
-        "value": "",
+        "value": "BQChJQIDGBN8TRG-yoxTuDeylUAhl8pGhan759mc41YYZdlabm1v_wswZrbrCuQuRXptzcFbf9-8wtc4cBWHI2Fw3ZUK_WPLAonQOLwrxid4xkPx0gP7LglnRe-zO1v32U5sTU9H4YKAz2_DuW7qe4uBI8a8-Qsz0JWAqwj5IS_BJM7QjASu29yj_K9euV2TUmB81nvdBi5MGbEJd1qO8ZWm7eLxyUasaxNIpOz9AQ-K9tdQFqdfEtjlFraVPB21OlwlfIokjyzPoo4tivKPFmKyA9Xc3NA-MuRrDg-r3DIA_HN9I8AT2DMyBByz2ZBIGsgNwfjm2t8WLwVaz4_M9ZdcAAAAATmsHaYA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -64,16 +64,16 @@
       },
       "LOG_GROUP_ID": {
         "description": "ID Grup Log Anda, tambahkan bot Anda dan promosikan sebagai admin dengan hak penuh!. Gunakan hanya Grup. Tolong jangan gunakan ID Channel.",
-        "value": "",
+        "value": "-1001469236568",
         "required": true
       },
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
-        "value": "GrovyUpdates"
+        "value": "xxxchrndm"
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Cangcimenn/musi",
+        "value": "https://github.com/Xgrophy/nasdang",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -83,12 +83,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Tautan Channel Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/GrovyUpdates",
+        "value": "https://t.me/xxxchrndm",
         "required": false
       },
       "SUPPORT_GROUP": {
         "description": "Tautan Group Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/GrovySupport",
+        "value": "https://t.me/muddysex",
         "required": false
       }
     },
